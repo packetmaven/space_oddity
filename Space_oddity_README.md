@@ -1,8 +1,14 @@
+![Space Oddity Logo](./space_oddity.png)
+
 # Space Oddity: Binary Embedding Drift Analyzer
 
 **Adversarial Machine Learning Research Tool | October 2025**
 
 *"Ground Control to Major Tom: Your circuit's dead, there's something wrong..."*
+
+![Space Oddity Analysis Output](./Space-oddity.png)
+
+*Example output: Embedding space drift visualization showing iterative binary mutations traversing the transformer embedding manifold. Each trajectory represents a "hop" from malicious (red) toward benign (green) regions while maintaining functional equivalence.*
 
 A research framework for analyzing adversarial robustness in transformer-based malware detection systems. This tool implements and demonstrates **embedding space hopping** - the systematic exploration of semantic manifolds through iterative binary mutations to evade ML-based detection while preserving operational functionality.
 
