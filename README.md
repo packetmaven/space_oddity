@@ -1,4 +1,4 @@
-![Space Oddity Logo](./space_oddity.png)
+![Space Oddity Logo](space_oddity.png)
 
 # Space Oddity: Binary Embedding Drift Analyzer
 
@@ -6,7 +6,7 @@
 
 *"Ground Control to Major Tom: Your circuit's dead, there's something wrong..."*
 
-![Space Oddity Analysis Output](./Space-oddity.png)
+![Space Oddity Analysis Output](Space-oddity.png)
 
 *Example output: Embedding space drift visualization showing iterative binary mutations traversing the transformer embedding manifold. Each trajectory represents a "hop" from malicious (red) toward benign (green) regions while maintaining functional equivalence.*
 
