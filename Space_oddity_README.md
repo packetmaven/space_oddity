@@ -43,6 +43,10 @@ This tool addresses the adversarial robustness of transformer-based binary class
 
 Embedding space hopping is an adversarial technique exploiting the continuous nature of learned representations. The attack iteratively mutates binaries to traverse the high-dimensional embedding manifold (ℝ⁷⁶⁸), moving from regions classified as malicious toward regions classified as benign while maintaining functional equivalence through semantic-preserving transformations. Each mutation represents a discrete "hop" in the continuous embedding space, with the trajectory optimized to cross decision boundaries while minimizing functional disruption.
 
+![Embedding Drift Analysis](./embedding_drift_analysis.png)
+
+*Entropy profile analysis of binary mutations showing sliding-window statistical anomaly detection. The visualization demonstrates how iterative mutations affect entropy distributions across 1024-byte blocks, with format boundaries marked and suspicious regions flagged based on deviation from benign camouflage zones (4-7 bits/byte).*
+
 ---
 
 ## 🚀 **Features**
