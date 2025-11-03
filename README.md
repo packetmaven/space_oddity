@@ -182,7 +182,7 @@ python3.11 space_oddity.py --help
 
 ## 📊 **Understanding the Output**
 
-### **FIXED Console Output (Conservative Mode):**
+### **Console Output (Conservative Mode):**
 
 ```
 🚨 BINARY ANALYZER WITH REAL EMBEDDING DRIFT
